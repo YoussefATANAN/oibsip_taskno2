@@ -163,7 +163,7 @@ header {
 @media (max-width: 767px) {
   header div.container {
     height: 150vh;
-    flex-flow: column-reverse wrap;
+    flex-direction: column-reverse;
     padding-top: 0;
 
     .fa-hand-holding-water {
